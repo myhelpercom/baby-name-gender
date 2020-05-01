@@ -19,6 +19,9 @@ Source of Baby Name: [https://baby.my-helper.com](https://baby.my-helper.com/)
 
 說明：
 get_gender($name) : string
+判斷嬰兒名字是男生名字還是女生名字。
+
+返回值：
 若參數$name為男生名字傳回'male'，若是女生名字傳回'female'，若無法判斷則傳回'unknown'。
 
 嬰兒名字來源：[https://baby.my-helper.com](https://baby.my-helper.com/)
