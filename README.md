@@ -18,7 +18,7 @@ Returns 'male' if the baby name is a boy name. Returns 'female' if the baby name
 
 
 
-Source of Baby Name: [https://baby.my-helper.com](https://baby.my-helper.com/)
+Source of Baby Name: [https://www.namechef.co](https://www.namechef.co)
 
 
 
@@ -42,4 +42,4 @@ get_gender($name) : string
 
 
 
-嬰兒名字來源：[https://baby.my-helper.com](https://baby.my-helper.com/)
+嬰兒名字來源：[https://www.namechef.co](https://www.namechef.co)
