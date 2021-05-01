@@ -22,7 +22,7 @@ Source of Baby Name: [https://www.namechef.co](https://www.namechef.co)
 
 
 
-# 成語判斷
+# 性別判斷
 
 此程序用作判斷嬰兒名字是男生名字還是女生名字。
 
